@@ -40,7 +40,7 @@ st.markdown("""
 # ══════════════════════════════════════
 st.title("📈 Quantitative Trading System")
 st.markdown("**Portfolio Optimizer • Options Scanner • Bond Risk Analyzer**")
-st.markdown("*Built by [Anji](https://linkedin.com/in/anjaneyulusadam) | "
+st.markdown("*Built by [Anjaneyulu](https://linkedin.com/in/anjaneyulusadam) | "
             "Python • Black-Scholes • Markowitz MPT • NSE Data*")
 st.divider()
 
